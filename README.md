@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 This is Bill!
 I am a Ph.D. student at the [University of Michigan Department of Astronomy](https://lsa.umich.edu/astro), where I work with Prof. [Oleg Gnedin](http://www-personal.umich.edu/~ognedin/). Before coming to Michigan, I received my B.S. degree at [Peking University School of Physics](https://www.phy.pku.edu.cn/) in Jul. 2020. My current research focuses on the formation and evolution of star clusters in cosmological context. [Click here](https://yingtianchen.com) to view my website.
 
 <!--
